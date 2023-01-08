@@ -7,7 +7,7 @@ import { Button } from '@mui/material';
 const Input: React.FC = () => {
   return (
     <Box border={"1px solid red"}>
-        <Box display={"flex"} justifyContent="center" gap="1rem"  border={"1px solid black"}  
+        <Box display={"flex"} justifyContent="center" gap="2rem"  border={"1px solid black"}  
     //      sx={{
     //     width: 500,
     //     maxWidth: '100%',
