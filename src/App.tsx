@@ -1,12 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Input from './components/Input';
+import Todo from './components/Todo';
+
 
 function App() {
   return (
     <div className="App">
-      <Input/>
+      <Todo/>
     </div>
   );
 }
